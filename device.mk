@@ -15,8 +15,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/xiaomi/cannong
-
 PRODUCT_SHIPPING_API_LEVEL := 29
 
 # Partitions

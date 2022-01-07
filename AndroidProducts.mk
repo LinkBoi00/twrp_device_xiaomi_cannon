@@ -16,4 +16,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/twrp_cannong.mk
+     $(LOCAL_DIR)/twrp_cannon.mk

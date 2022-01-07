@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/xiaomi/cannong
+DEVICE_PATH := device/xiaomi/cannon
 
 # Architecture
 TARGET_ARCH := arm64
