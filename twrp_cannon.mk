@@ -18,8 +18,8 @@
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 
-# Inherit from cannong device
-$(call inherit-product, device/xiaomi/cannong/device.mk)
+# Inherit from cannon device
+$(call inherit-product, device/xiaomi/cannon/device.mk)
 
 # Inherit some common twrp stuff.
 $(call inherit-product, vendor/twrp/config/common.mk)
