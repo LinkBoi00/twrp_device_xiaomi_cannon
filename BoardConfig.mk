@@ -117,7 +117,6 @@ TW_RECOVERY_ADDITIONAL_RELINK_LIBRARY_FILES += \
     $(TARGET_OUT_SHARED_LIBRARIES)/libashmemd_client.so
 
 # TWRP Configuration
-TW_NO_SCREEN_BLANK := true
 TW_THEME := portrait_hdpi
 TW_Y_OFFSET := 100
 TW_H_OFFSET := -100
